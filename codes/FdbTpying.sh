@@ -1,0 +1,1 @@
+nohup /Users/UserName/Work/Bin/kill_double_typing
